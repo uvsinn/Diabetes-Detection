@@ -1,6 +1,6 @@
 # Diabetes Detection
 
-This repository contains code and resources for diabetes detection.
+This repository contains code and resources for diabetes detection using *Support Vector Machines*.
 
 ## Concept
 
