@@ -22,20 +22,20 @@ The need for diabetes detection arises due to the following reasons:
 
 ## Dataset
 
-The dataset used for this project can be found [here](https://drive.google.com/file/d/1wokfbUEhAtJxpZgpx3VIAEpP_Vn4nHHW/view?usp=sharing).
+The dataset used for this project can be found :[here](https://drive.google.com/file/d/1wokfbUEhAtJxpZgpx3VIAEpP_Vn4nHHW/view?usp=sharing).
 
 ## Installation
 
 To run the code, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/uvsinn/Diabetes-detection.git
+   >git clone https://github.com/uvsinn/Diabetes-detection.git
    
 2. Install the required dependencies:
-   pip install -r requirements.txt
+   >pip install -r requirements.txt
    
 3. Run the main script:
-   python Diabetes_Detection.ipynb
+   >python Diabetes_Detection.ipynb
    
 ## Contributing
 
