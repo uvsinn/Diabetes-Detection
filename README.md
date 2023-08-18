@@ -40,6 +40,15 @@ To run the code, follow these steps:
 ## Results
 
 <img src="results/1.png" width="1200"/>
+<img src="results/2.png" width="1200"/>
+<img src="results/3.png" width="1200"/>
+<img src="results/4.png" width="1200"/>
+<img src="results/5.png" width="1200"/>
+<img src="results/6.png" width="1200"/>
+<img src="results/7.png" width="1200"/>
+<img src="results/8.png" width="1200"/>
+<img src="results/9.png" width="1200"/>
+<img src="results/10.png" width="1200"/>
 
    
 ## Contributing
