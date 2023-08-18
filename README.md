@@ -36,6 +36,11 @@ To run the code, follow these steps:
    
 3. Run the main script:
    >python Diabetes_Detection.ipynb
+
+## Results
+
+<img src="results/1.png" width="500"/>
+
    
 ## Contributing
 
